@@ -1,6 +1,6 @@
 # ML-Project
 in this project we create a house price prediction model for a company 
-in this project we analyze the data, and also clean the data ,and process the data
+we analyze the data, and also clean the data ,and process the data
 we took 80% of data for traing and 20% data for testing
 we looked for different correlations
 we tried attribute combination 
